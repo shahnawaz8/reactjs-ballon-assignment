@@ -1,4 +1,5 @@
 .mainDiv{
+    width: 70%;
     border: 1px solid whitesmoke;
     margin: 50px;
     height: 400px;
@@ -11,7 +12,7 @@
 }
 .emptyDiv{
     border: 1px solid;
-    margin-top: 50%;
+    margin-top: 30%;
     height: 200px;
     width: 100%;
     display: grid;
